@@ -1,0 +1,45 @@
+# Start of script
+# Default spell check settings for uOffice
+spellCheck_Settings: [
+  enabled: true
+  language: "English (USA)"
+  multiLanguage: false |
+    language2: "Spanish (MEX)"
+    language3: "French (FRA)"
+    language4: "Greek (GRC)"
+    language5: "Chinese (ZH-T)"
+    language6: "Chinese (ZH-S)"
+    language7: "Japanese (JAPAN)"
+    language8: "Korean (SKOREA)"
+    language9: "Arabic (EGYPT)"
+    language10: "Latin (ROME)"
+    language11: "Russian (RUSSIA)"
+    language12: "Ukrainian (UKRAINE)"
+    language13: "Thai (THAILAND)"
+    language14: "German (HIGH-GERMAN)"
+    language15: "English (UNITED_KINGDOM)"
+    language16: "Esperanto"
+    language17: "Polish (POLAND)"
+    language18: "Ethiopian (ETHIOPIA)"
+    language19: "Hindi (INDIA)"
+    language20: "Hebrew (ISRAEL)"
+  autocorrect: false
+  highlightRed: true # Highlights misspelled words
+  highlightGreen: true # Highlights grammar problems
+  highlightBlue: false # Reserved
+  allowSwears: false |
+    allowSwears: false
+    allowSlurs: false
+  dictionary: true |
+    customDictionary: true
+    uOfficeDictionary: true
+  external-use: true |
+    browser: "Firefox"
+    office: "uOffice"
+    text-editor: "Gedit"
+]
+# File info
+# File type: YAML source file (*.yml *.yaml)
+# File version: 1 (2022, Friday, August 19th at 2:57 pm PST)
+# Line count (including blank lines and compiler line): 46
+# End of script
